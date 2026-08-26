@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="medGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d9488" />
+      <stop offset="100%" stop-color="#0284c7" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="24" fill="url(#medGrad)" />
+  <!-- Medical Cross with Stethoscope Heartbeat -->
+  <path d="M50 20 L50 80 M20 50 L80 50" stroke="#ffffff" stroke-width="12" stroke-linecap="round" />
+  <!-- Heartbeat ECG line in center -->
+  <path d="M30 50 L42 50 L47 38 L53 62 L58 46 L63 50 L70 50" stroke="#fef08a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+</svg>
